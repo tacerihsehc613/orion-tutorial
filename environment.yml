@@ -5,3 +5,7 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - numpy
+  - pip  # Add pip to install packages from PyPI
+  - pip:
+    - openai
