@@ -10,4 +10,5 @@ dependencies:
   - pip:
     - openai
     - langchain
+    - langchain-core
     - packaging
