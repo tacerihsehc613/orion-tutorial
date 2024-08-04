@@ -9,3 +9,4 @@ dependencies:
   - pip  # Add pip to install packages from PyPI
   - pip:
     - openai
+    - langchain
