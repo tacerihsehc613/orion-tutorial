@@ -10,3 +10,4 @@ dependencies:
   - pip:
     - openai
     - langchain
+    - packaging
